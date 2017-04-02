@@ -1,0 +1,21 @@
+{
+    "name": "garak/pma-electron",
+    "type": "project",
+    "license": "MIT",
+    "description": "Run phpMyadmin inside Electron app",
+    "authors": [
+        {
+            "name": "Massimiliano Arione",
+            "email": "garakkio@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://www.phpmyadmin.net/packages.json"
+        }
+    ],    
+    "require": {
+        "phpmyadmin/phpmyadmin": "^4.7"
+    }
+}
