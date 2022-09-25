@@ -15,7 +15,7 @@ Installation
 * clone this repository
 * run `npm install`
 * run `composer install --no-dev`
-* enter in `/vendor/phpmyadmin/phpmyadmin` and run `composer install --no-dev`
+* enter in `vendor/phpmyadmin/phpmyadmin` and run `composer install --no-dev`
 * in the same dir, you need to apply the patch explained below
 
 Apply a patch to get js working
